@@ -1,0 +1,40 @@
+h1 {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.body-color {
+    background: radial-gradient(at left, #FEFFFF, #A7CECC);
+}
+
+header {
+    overflow: hidden;
+    background: #fff0f5;
+    top: 0;
+    width: 100%;
+}
+
+section {
+    padding-bottom: 90px;
+}
+
+header a {
+    float: right;
+    text-decoration: none;
+    color: black;
+    text-align: center;
+    margin-right: 0px;
+    font-size: 18px;
+    padding: 14px 16px;
+}
+
+header a:hover {
+    background: #A7CECC;
+    color: black;
+}
+
+.header-username-style {
+    padding: 14px 16px;
+    color: black;
+    text-align: left;
+    font-size: 18px;
+}
